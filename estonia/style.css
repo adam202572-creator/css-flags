@@ -8,10 +8,10 @@ a {
     text-align:center;
 }
 .flag {
-  width:1100px;
-  height:700px;
-  margin:auto;
-  border:1px solid black;
+    width:1100px;
+    height:700px;
+    margin:auto;
+    border:1px solid black;
 }
 
 .stripe {
@@ -28,5 +28,5 @@ a {
     background: #000000;
 }
 .white {
-    background: #FFFFFF
+    background: #FFFFFF;
 }
