@@ -33,5 +33,5 @@ a {
 .chakra {
     width: 20%;
     height: 90%;
-    margin: auto;
+    align-items: center;
 }
