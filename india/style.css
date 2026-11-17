@@ -29,3 +29,9 @@ a {
 .navy {
     background:#06038D;
 }
+
+.chakra {
+    width: 20%;
+    height: 30%;
+    align-items: center;
+}
