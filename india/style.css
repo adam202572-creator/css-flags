@@ -19,13 +19,13 @@ a {
     height:33.33%;
 }
 
-.red {
-    background:red;
+.orange {
+    background:#FF671F;
 }
 
 .white {
-    background:white;
+    background:#FFFFFF;
 }
-.blue {
-    background:blue;
+.navy {
+    background:#06038D;
 }
