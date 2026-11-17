@@ -13,16 +13,16 @@ width:600px;
   margin:auto;
 }
 .white{
-    background-color:;
+    background-color:white;
 }
 .red{
-    background-color:;
+    background-color:#9D2235;
 }
 .stripe{
     width: 100%;
-    height: %;
+    height: 40%;
 }
 .middlestripe{
     width: 100%;
-    height: %;
+    height: 20%;
 }
