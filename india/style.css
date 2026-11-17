@@ -17,6 +17,7 @@ a {
 .stripe {
     width:100%;
     height:33.33%;
+    text-align:center;
 }
 
 .orange {
@@ -33,5 +34,4 @@ a {
 .chakra {
     width: 20%;
     height: 90%;
-    align-items: center;
 }
