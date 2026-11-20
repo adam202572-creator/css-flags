@@ -10,6 +10,7 @@ body {
     aspect-ratio: 3/2;
     background: red;
     isolation: isolate;
+    margin:auto;
 }
 .flag > div, .Yellowbox {
     display: flex;
