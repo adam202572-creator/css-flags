@@ -1,0 +1,35 @@
+.header {
+    text-align:center;
+}
+
+a {
+    display:block;
+    width:100%;
+    text-align:center;
+}
+.flag {
+  width:630px;
+  height:340px;
+  margin:auto;
+  border:1px solid black;
+}
+
+.stripe {
+    width:600px;
+    height:100%;
+}
+.white img {
+    margin-left:5px;
+    margin-top: 20px;
+    height:265px;
+}
+.white {
+    width:255px;
+    background:white;
+     float:left;
+}
+.lightblue {
+    width: 187.5px;
+    background:#009EDA;
+     float:left;
+}
