@@ -14,8 +14,9 @@ a {
 }
 
 .stripe {
-    width:33%;
+    width: 33.3333%;
     height:100%;
+    float:left;
 }
 
 .orange {
@@ -24,7 +25,8 @@ a {
 
 .white {
     background-color:#FFFFFF;
+    align:center;
 }
 .green{
-    background-color:#009A44;
+    background-color:#009A44
 }
