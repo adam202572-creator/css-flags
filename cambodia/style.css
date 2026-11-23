@@ -27,3 +27,9 @@ a {
 .red {
     background:#e00025;
 }
+.temple {
+    width: 30%;
+    height: 90%;
+    margin: auto;
+    display: block;
+}
